@@ -1,0 +1,27 @@
+.title {
+    width: 100%;
+
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+ .images {
+    display: flex;
+    justify-content: center;
+ }
+.form {
+    width: 75vw;
+    z-index: 100;
+    position: absolute;
+    top: 300px;
+    box-shadow: 10px;
+}
+
+
+.top {
+    color: white;
+    background-color: black;
+}
